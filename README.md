@@ -2,61 +2,98 @@
 
 # Hera Siddique
 
-Frontend-focused full-stack developer · CS undergrad at BIT Mesra
+**Frontend-focused full-stack developer · CS undergrad at BIT Mesra**
 
-[GitHub](https://github.com/gitalifefr) · [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/) · [Email](mailto:hera.sid31@gmail.com)
+<sub>Building clean, user-facing web experiences with React & TypeScript</sub>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/gitalifefr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:hera.sid31@gmail.com)
 
 </div>
 
 <br>
 
-## About
+<div align="center">
 
-Building clean, user-facing web experiences with React and TypeScript. Currently interning as a frontend developer and contributing to full-stack projects on the side.
+<sub>✦ &nbsp; &nbsp; ✦ &nbsp; &nbsp; ✦</sub>
 
-## Projects
+</div>
 
-**[NextHire AI](https://github.com/gitalifefr/NextHire-AI)**
-Full-stack AI-powered interview preparation platform — secure authentication, resume upload, ATS compatibility analysis, skill-gap detection, and Gemini AI–generated interview questions and learning roadmaps tailored to job descriptions.
-*React.js · Node.js · Express.js · MongoDB · Gemini AI · Tailwind CSS*
+<br>
 
-**[Leo Club BIT Mesra Website](https://github.com/gitalifefr/leo-club-website)**
+### Projects
+
+<br>
+
+**[NextHire AI](https://github.com/gitalifefr/NextHire-AI)** — *AI Interview Preparation Platform*
+Full-stack platform with secure authentication, resume upload, ATS compatibility analysis, skill-gap detection, and Gemini AI–generated interview questions and learning roadmaps tailored to job descriptions.
+<sub>React.js · Node.js · Express.js · MongoDB · Gemini AI · Tailwind CSS</sub>
+
+<br>
+
+**[Leo Club BIT Mesra Website](https://github.com/gitalifefr/leo-club-website)** — *Club Website*
 Official website for Leo Club BIT Mesra, built to manage and showcase club events, initiatives, registrations, and activities.
-*React.js · Vite · Express.js · MongoDB · Tailwind CSS*
+<sub>React.js · Vite · Express.js · MongoDB · Tailwind CSS</sub>
 
-## Experience
+<br>
 
-**Frontend Developer Intern, Productimate AI** — May – Jul
+### Experience
+
+<br>
+
+**Frontend Developer Intern** · Productimate AI &nbsp;<sub>May – Jul</sub>
 Contributed to a social media management platform featuring post scheduling, comment management, and user authentication. Implemented REST API integrations, enhanced the signup flow, and built reusable UI components.
 
-**Frontend Developer, Contentlogy Website**
-Developed responsive web pages, translating UI designs into functional interfaces with HTML, CSS, and TypeScript, and optimized reusable components for cross-device compatibility.
+**Frontend Developer** · Contentlogy Website
+Developed responsive web pages, translating UI designs into functional interfaces with HTML, CSS, and TypeScript, with reusable components optimized for cross-device compatibility.
 
-**Senior Associate Consultant, 180DC BIT Mesra**
+**Senior Associate Consultant** · 180DC, BIT Mesra
 Contributed to consulting projects through structured problem-solving, research, and data-driven strategic recommendations.
 
-**Vice President, LEO Club BIT Mesra**
+**Vice President** · LEO Club, BIT Mesra
 Led club operations, coordinated cross-functional teams, and managed event planning and execution.
 
-## Education
+<br>
 
-**BIT Mesra** — B.Tech, Computer Science Engineering · Sept 2023 – May 2027 · CGPA 7.4
-**Delhi Private School, Ajman, UAE** — Grade 12 · 88%
-**Delhi Private School, Ajman, UAE** — Grade 10 · 95%
+### Education
 
-## Skills
+<br>
 
-**Languages** — C, C++, Python, JavaScript, SQL
-**Frontend** — React.js, React Router, Tailwind CSS, Sass, HTML, CSS
-**Backend** — Node.js, Express.js, REST APIs
-**Databases** — MongoDB, SQL
-**Tools** — Git, GitHub, VS Code, Vite, Postman
-**CS Fundamentals** — Data Structures & Algorithms, OOP, Operating Systems, Computer Networks, Cloud Computing Fundamentals
+| | |
+|---|---|
+| **BIT Mesra** | B.Tech, Computer Science Engineering &nbsp;·&nbsp; Sept 2023 – May 2027 &nbsp;·&nbsp; CGPA 7.4 |
+| **Delhi Private School**, Ajman, UAE | Grade 12 &nbsp;·&nbsp; 88% |
+| **Delhi Private School**, Ajman, UAE | Grade 10 &nbsp;·&nbsp; 95% |
+
+<br>
+
+### Skills
 
 <br>
 
 <div align="center">
 
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=gitalifefr&theme=minimal&hide_border=true&area=false)
+`C` `C++` `Python` `JavaScript` `SQL`
+`React.js` `React Router` `Tailwind CSS` `Sass` `HTML` `CSS`
+`Node.js` `Express.js` `REST APIs`
+`MongoDB` `SQL`
+`Git` `GitHub` `VS Code` `Vite` `Postman`
+
+</div>
+
+<sub>CS Fundamentals — Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · Cloud Computing Fundamentals</sub>
+
+<br>
+
+<div align="center">
+
+<sub>✦ &nbsp; &nbsp; ✦ &nbsp; &nbsp; ✦</sub>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitalifefr&theme=minimal&hide_border=true&area=false&bg_color=ffffff&color=000000&line=333333&point=000000" width="90%"/>
 
 </div>
