@@ -82,6 +82,6 @@ Led club operations, coordinated cross-functional teams, and managed event plann
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitalifefr&theme=minimal&hide_border=true&area=false&bg_color=ffffff&color=000000&line=333333&point=000000" width="90%"/>
+
 
 </div>
