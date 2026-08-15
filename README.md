@@ -35,4 +35,4 @@ Frontend-focused full-stack developer and CS undergrad at BIT Mesra. Interested 
 
 #### Activity
 
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal&hide_border=true&area=false)
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=gitalifefr&theme=minimal&hide_border=true&area=false)
