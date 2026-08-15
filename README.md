@@ -58,18 +58,6 @@ Led club operations, coordinated cross-functional teams, and managed event plann
 
 <br>
 
-### Education
-
-<br>
-
-| | |
-|---|---|
-| **BIT Mesra** | B.Tech, Computer Science Engineering &nbsp;·&nbsp; Sept 2023 – May 2027 &nbsp;·&nbsp; CGPA 7.4 |
-| **Delhi Private School**, Ajman, UAE | Grade 12 &nbsp;·&nbsp; 88% |
-| **Delhi Private School**, Ajman, UAE | Grade 10 &nbsp;·&nbsp; 95% |
-
-<br>
-
 ### Skills
 
 <br>
