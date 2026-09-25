@@ -2,84 +2,111 @@
 
 # Hera Siddique
 
-**Frontend-focused full-stack developer · CS undergrad at BIT Mesra**
+### Full-Stack Developer · AI & Web Development
 
-<sub>Building clean, user-facing web experiences with React & TypeScript</sub>
+Building practical, user-focused applications with modern web technologies.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/gitalifefr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:hera.sid31@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gitalifefr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hera.sid31@gmail.com)
 
 </div>
 
 <br>
 
-<div align="center">
+---
 
-<sub>✦ &nbsp; &nbsp; ✦ &nbsp; &nbsp; ✦</sub>
+## 👩‍💻 About Me
 
-</div>
+I'm a Computer Science undergraduate at **BIT Mesra** with experience in full-stack development, frontend engineering, consulting, and AI-powered applications.
+
+I enjoy building applications that combine **clean user interfaces, backend systems, databases, and AI** to solve practical problems.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [QueryPilot](https://github.com/gitalifefr/querypilot)
+
+**Natural Language → SQL Application**
+
+A Streamlit-based Text-to-SQL application that allows users to interact with a MySQL database using natural language.
+
+QueryPilot uses **Google Gemini** for SQL generation and embeddings, combined with local schema retrieval to provide relevant database context before generating executable SQL queries.
+
+**Tech:**  
+`Python` `Streamlit` `Google Gemini` `MySQL` `NumPy`
+
+---
+
+### 🔹 [NextHire AI](https://github.com/gitalifefr/NextHire-AI)
+
+**AI-Powered Interview Preparation Platform**
+
+A full-stack job preparation platform featuring secure authentication, resume upload, ATS compatibility analysis, skill-gap detection, and Gemini-powered interview questions and learning roadmaps tailored to job descriptions.
+
+**Tech:**  
+`React.js` `Node.js` `Express.js` `MongoDB` `Gemini AI` `Tailwind CSS`
+
+---
+
+## 💼 Experience
+
+**Frontend Developer Intern · Productimate AI**  
+*May – Jul*
+
+Contributed to a social media management platform featuring post scheduling, comment management, and user authentication. Worked on REST API integrations, signup flows, and reusable frontend components.
 
 <br>
 
-### Projects
+**Frontend Developer · Contentlogy**
+
+Developed responsive web pages by translating UI designs into functional interfaces using HTML, CSS, and TypeScript, with reusable components optimized for different screen sizes.
 
 <br>
 
-**[QueryPilot](https://github.com/gitalifefr/querypilot.git)** — *Natural Language to SQL Application*  
-Streamlit-based Text-to-SQL application that allows users to query a MySQL database using natural language. Uses Google Gemini for SQL generation and embeddings, with local schema retrieval to provide relevant database context before generating executable SQL queries.
-<sub>Python · Streamlit · Google Gemini · MySQL · NumPy · REST APIs</sub>
+**Senior Associate Consultant · 180DC, BIT Mesra**
 
-<br>
-
-**[NextHire AI](https://github.com/gitalifefr/NextHire-AI)** — *AI Interview Preparation Platform*  
-Full-stack platform with secure authentication, resume upload, ATS compatibility analysis, skill-gap detection, and Gemini AI–generated interview questions and learning roadmaps tailored to job descriptions.
-<sub>React.js · Node.js · Express.js · MongoDB · Gemini AI · Tailwind CSS</sub>
-
-<br>
-
-### Experience
-
-<br>
-
-**Frontend Developer Intern** · Productimate AI &nbsp;<sub>May – Jul</sub>  
-Contributed to a social media management platform featuring post scheduling, comment management, and user authentication. Implemented REST API integrations, enhanced the signup flow, and built reusable UI components.
-
-**Frontend Developer** · Contentlogy Website  
-Developed responsive web pages, translating UI designs into functional interfaces with HTML, CSS, and TypeScript, with reusable components optimized for cross-device compatibility.
-
-**Senior Associate Consultant** · 180DC, BIT Mesra  
 Contributed to consulting projects through structured problem-solving, research, and data-driven strategic recommendations.
 
-**Vice President** · LEO Club, BIT Mesra  
+<br>
+
+**Vice President · LEO Club, BIT Mesra**
+
 Led club operations, coordinated cross-functional teams, and managed event planning and execution.
 
-<br>
+---
 
-### Skills
+## 🛠️ Tech Stack
 
-<br>
-
-<div align="center">
-
+### Languages
 `C` `C++` `Python` `JavaScript` `SQL`
+
+### Frontend
 `React.js` `React Router` `Tailwind CSS` `Sass` `HTML` `CSS`
+
+### Backend
 `Node.js` `Express.js` `REST APIs`
-`MongoDB` `MySQL`
+
+### Databases & AI
+`MongoDB` `MySQL` `Google Gemini`
+
+### Tools
 `Git` `GitHub` `VS Code` `Vite` `Postman`
 
-</div>
+### CS Fundamentals
+`Data Structures & Algorithms` · `OOP` · `Operating Systems` · `Computer Networks` · `Cloud Computing` · `DBMS`
 
-<sub>CS Fundamentals — Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · Cloud Computing Fundamentals · Database Management System</sub>
-
-<br>
+---
 
 <div align="center">
 
-<sub>✦ &nbsp; &nbsp; ✦ &nbsp; &nbsp; ✦</sub>
+### ✦ Building · Learning · Improving ✦
 
-<br><br>
+<br>
+
+<sub>Thanks for visiting my profile.</sub>
 
 </div>
