@@ -60,9 +60,6 @@ A full-stack job preparation platform featuring secure authentication, resume up
 Contributed to a social media management platform featuring post scheduling, comment management, and user authentication. Worked on REST API integrations, signup flows, and reusable frontend components.
 
 <br>
-
-**Frontend Developer · Contentlogy**
-
 Developed responsive web pages by translating UI designs into functional interfaces using HTML, CSS, and TypeScript, with reusable components optimized for different screen sizes.
 
 <br>
