@@ -28,15 +28,15 @@
 
 <br>
 
-**[NextHire AI](https://github.com/gitalifefr/NextHire-AI)** — *AI Interview Preparation Platform*
-Full-stack platform with secure authentication, resume upload, ATS compatibility analysis, skill-gap detection, and Gemini AI–generated interview questions and learning roadmaps tailored to job descriptions.
-<sub>React.js · Node.js · Express.js · MongoDB · Gemini AI · Tailwind CSS</sub>
+**[QueryPilot](https://github.com/gitalifefr/querypilot.git)** — *Natural Language to SQL Application*  
+Streamlit-based Text-to-SQL application that allows users to query a MySQL database using natural language. Uses Google Gemini for SQL generation and embeddings, with local schema retrieval to provide relevant database context before generating executable SQL queries.
+<sub>Python · Streamlit · Google Gemini · MySQL · NumPy · REST APIs</sub>
 
 <br>
 
-**[Leo Club BIT Mesra Website](https://github.com/gitalifefr/leo-club-website)** — *Club Website*
-Official website for Leo Club BIT Mesra, built to manage and showcase club events, initiatives, registrations, and activities.
-<sub>React.js · Vite · Express.js · MongoDB · Tailwind CSS</sub>
+**[NextHire AI](https://github.com/gitalifefr/NextHire-AI)** — *AI Interview Preparation Platform*  
+Full-stack platform with secure authentication, resume upload, ATS compatibility analysis, skill-gap detection, and Gemini AI–generated interview questions and learning roadmaps tailored to job descriptions.
+<sub>React.js · Node.js · Express.js · MongoDB · Gemini AI · Tailwind CSS</sub>
 
 <br>
 
@@ -44,16 +44,16 @@ Official website for Leo Club BIT Mesra, built to manage and showcase club event
 
 <br>
 
-**Frontend Developer Intern** · Productimate AI &nbsp;<sub>May – Jul</sub>
+**Frontend Developer Intern** · Productimate AI &nbsp;<sub>May – Jul</sub>  
 Contributed to a social media management platform featuring post scheduling, comment management, and user authentication. Implemented REST API integrations, enhanced the signup flow, and built reusable UI components.
 
-**Frontend Developer** · Contentlogy Website
+**Frontend Developer** · Contentlogy Website  
 Developed responsive web pages, translating UI designs into functional interfaces with HTML, CSS, and TypeScript, with reusable components optimized for cross-device compatibility.
 
-**Senior Associate Consultant** · 180DC, BIT Mesra
+**Senior Associate Consultant** · 180DC, BIT Mesra  
 Contributed to consulting projects through structured problem-solving, research, and data-driven strategic recommendations.
 
-**Vice President** · LEO Club, BIT Mesra
+**Vice President** · LEO Club, BIT Mesra  
 Led club operations, coordinated cross-functional teams, and managed event planning and execution.
 
 <br>
@@ -67,12 +67,12 @@ Led club operations, coordinated cross-functional teams, and managed event plann
 `C` `C++` `Python` `JavaScript` `SQL`
 `React.js` `React Router` `Tailwind CSS` `Sass` `HTML` `CSS`
 `Node.js` `Express.js` `REST APIs`
-`MongoDB` `SQL`
+`MongoDB` `MySQL`
 `Git` `GitHub` `VS Code` `Vite` `Postman`
 
 </div>
 
-<sub>CS Fundamentals — Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · Cloud Computing Fundamentals</sub>
+<sub>CS Fundamentals — Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · Cloud Computing Fundamentals · Database Management System</sub>
 
 <br>
 
@@ -81,7 +81,5 @@ Led club operations, coordinated cross-functional teams, and managed event plann
 <sub>✦ &nbsp; &nbsp; ✦ &nbsp; &nbsp; ✦</sub>
 
 <br><br>
-
-
 
 </div>
