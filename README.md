@@ -54,25 +54,34 @@ A full-stack job preparation platform featuring secure authentication, resume up
 
 ## 💼 Experience
 
-**Frontend Developer Intern · Productimate AI**  
-*May – Jul*
+### **Frontend Developer Intern · Productimate AI**
+*May 2026– Jul 2026*
 
-Contributed to a social media management platform featuring post scheduling, comment management, and user authentication. Worked on REST API integrations, signup flows, and reusable frontend components.
+Worked across two products during my internship:
 
-<br>
-Developed responsive web pages by translating UI designs into functional interfaces using HTML, CSS, and TypeScript, with reusable components optimized for different screen sizes.
+**Postimate AI — Social Media Management Platform**
+- Contributed to a social media management platform for post scheduling and content management.
+- Worked on authentication flows, REST API integrations, analytics/event tracking, and reusable frontend components.
+- Contributed to features including post scheduling, reports, and calendar workflows.
 
-<br>
+**Contentlogy**
+- Developed responsive frontend pages by translating UI designs into functional interfaces.
+- Built reusable components using HTML, CSS, and TypeScript.
+- Worked on the homepage, hero section, services, and client sections with a focus on responsive design.
 
-**Senior Associate Consultant · 180DC, BIT Mesra**
 
-Contributed to consulting projects through structured problem-solving, research, and data-driven strategic recommendations.
 
-<br>
+---
 
-**Vice President · LEO Club, BIT Mesra**
+## 🌟 Leadership & Activities
+
+### **Vice President · LEO Club, BIT Mesra**
 
 Led club operations, coordinated cross-functional teams, and managed event planning and execution.
+
+### **Senior Associate Consultant · 180DC, BIT Mesra**
+
+Contributed to consulting projects through structured problem-solving, research, and data-driven strategic recommendations.
 
 ---
 
